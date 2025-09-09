@@ -1,25 +1,21 @@
-<h1 align="center">Hi 👋, I'm Daniel Cruz</h1>
-<h3 align="center">A Data Engineer that have speciallity in Data Ingestion, Spark, AWS, Cloud Computing</h3>
+<h1 align="center">Hi 👋, I'm Daniel Cruz Rodrigues</h1>
+<h3 align="center">A Data Engineer that have speciallity in Data Ingestion, Spark, AWS, Cloud Computing and DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddesucesso&label=Profile%20views&color=0e75b6&style=flat" alt="eddesucesso" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddesucesso" alt="eddesucesso" /></a> </p>
 
-- 🔭 I’m currently working on **PowerOfData**
 
-- 🌱 I’m currently learning **Cloud Computing, Process automations**
-
-- 👯 I’m looking to collaborate on **PowerOfData + Itaú**
+- 🌱 I’m currently learning **Cloud Computing, Process automations, Data Ingestion, CI/CD and DevOps**
 
 - 🤝 I’m looking for help with **Data Engineering, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.danieldataengineer.com.br/](https://portfolio.danieldataengineer.com.br/)
+- 👨‍💻 All of my projects are available at [[https://danielportfolio.eddesucesso.tech/#](https://danielportfolio.eddesucesso.tech/#)]
 
-- 💬 Ask me about **Python, AWS, Spark, Data Processing**
+- 💬 Ask me about **Python, AWS, Spark, DevOps, CI/CD**
 
-- 📫 How to reach me **danielcruz.alu.lmb@gmail.com**
+- 📫 How to reach me **danielcruz.alu.lmb@gmail.com** or **danielcruz.alu.lmb@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio.danieldataengineer.com.br/static/media/Daniel%20Cruz%20Rodrigues%20-%20%20Engenheiro%20de%20Dados.b1dd43e7b1e8f7b7891f.pdf](https://portfolio.danieldataengineer.com.br/static/media/Daniel%20Cruz%20Rodrigues%20-%20%20Engenheiro%20de%20Dados.b1dd43e7b1e8f7b7891f.pdf)
 
 - ⚡ Fun fact **I know to deploy anyting using docker**
 
