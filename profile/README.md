@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, AWS, Spark, DevOps, CI/CD**
 
-- 📫 How to reach me **danielcruz.alu.lmb@gmail.com** or **danielcruz.alu.lmb@gmail.com**
+- 📫 How to reach me **danielcruz.alu.lmb@gmail.com** or **daniel@eddesucesso.tech**
 
 
 - ⚡ Fun fact **I know to deploy anyting using docker**
