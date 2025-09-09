@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Cruz Rodrigues</h1>
-<h3 align="center">A Data Engineer that have speciallity in Data Ingestion, Spark, AWS, Cloud Computing and DevOps</h3>
+<h3 align="center">A Data/DevOps Engineer that have speciallity in Data Ingestion, Spark, AWS, Cloud Computing and DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddesucesso&label=Profile%20views&color=0e75b6&style=flat" alt="eddesucesso" /> </p>
 
